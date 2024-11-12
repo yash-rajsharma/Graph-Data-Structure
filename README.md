@@ -1,3 +1,5 @@
+<img src ='https://learnloner.com/wp-content/uploads/2023/04/Dynamic-Programming-1.png.webp' alt = 'Graph Data Structure'/>
+
 # 🌐 Graph Data Structure in JavaScript
 
 ## 📘 Introduction
